@@ -2,7 +2,7 @@
 title: "Data Representation - Integer"
 subtitle: "「数据表示」整数"
 layout: post
-author: "Hux"
+author: "Yue Yu"
 header-style: text
 tags:
   - 笔记
