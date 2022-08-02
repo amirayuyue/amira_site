@@ -2,12 +2,12 @@
 title: Yue Yu Blog
 SEOTitle: Amira Yu Blog
 header-img: img/home-bg.jpg
-email: huxpro@gmail.com
+email: amirayuyue@gmail.com
 description: " 这里是 Amira 的个人博客，与你一起发现更大的世界"
 keyword: ""
 url: "https://amirayuyue.com" # your host, for absolute URL
 baseurl: "" # for example, '/blog' if your blog hosted on 'host/blog'
-remote_theme: Huxpro/huxpro.github.io
+#remote_theme: Huxpro/huxpro.github.io
 
 # Publish posts or collection documents with a future date.
 future: true
@@ -89,4 +89,3 @@ page-mathjax: false
 
 
 
-theme: jekyll-theme-cayman
