@@ -7,6 +7,7 @@ description: " 这里是 Amira 的个人博客，与你一起发现更大的世�
 keyword: ""
 url: "https://amirayuyue.com" # your host, for absolute URL
 baseurl: "" # for example, '/blog' if your blog hosted on 'host/blog'
+remote_theme: Huxpro/huxpro.github.io
 
 # Publish posts or collection documents with a future date.
 future: true
